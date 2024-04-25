@@ -1,4 +1,4 @@
-# CARAVA HTMLサイト
+# CARAVAN HTMLサイト
 
 ## レスポンシブ対応
 
